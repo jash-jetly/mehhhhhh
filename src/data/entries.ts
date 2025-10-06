@@ -11,9 +11,10 @@ export const entries: Record<string, DiaryEntry> = {
     photo: 'https://i.ibb.co/gZKH9P4V/1.jpg',
     caption: `Yooo, Happy Bestieeversary! 
     DO mahina jhel liya tune mujhe, please aur jhel lena.
-    Tujhe pata hai you really are the first person, jisne mujhe bestiee bola hai, gay hi sahi, par thik hai.
-    YOU THE BEST`,
-    songUrl: '/songs/1.mp3'
+    Tujhe pata hai you really are the first person, jisne mujhe bestiee bola hai, gay hi sahi, par thik hai. Ik Pratik tha par woh bhi tabhi hi baat karta tha jab koi uske saath baat nahi karta tha, being a bestiee to someone feels nice....
+    THANK YOU...... 
+    YOU THE BEST.......`,
+    songUrl: 'https://cxtislnfnvbmgsctngha.supabase.co/storage/v1/object/public/music/audio/1.mp3'
   },
   "040825": {
     code: '040825',
@@ -22,16 +23,17 @@ export const entries: Record<string, DiaryEntry> = {
     probably the best day of my life, kyuke team mai tu thi..... 
     though you were not your best, tune bacche jaisa dhyaan rakha mera 😭😭😭 
     hehe THANK YOU BESTIEE`,
-    songUrl: '/songs/2.mp3'
+    songUrl: 'https://cxtislnfnvbmgsctngha.supabase.co/storage/v1/object/public/music/audio/2.mp3'
   },
   "120806": {
     code: '120806',
     photo: 'https://i.ibb.co/9HGftvTs/3.jpg',
     caption: `THANK YOU FOR EXISTING LITERALLY...., dekh ik lifes been heavy lately 
     tu fustarated hai, and you dont feel yourself, and you probably feel like SHIT.
+    Mai bhi kaam tension toh nahi deta hu (bohot pareshaan karta hu tujhe).
     Lekin yeh bhi time hai nikal hi jayega, tension na le, aur mai tu hu hi saath maii.
     (Tu bolegi toh chal jaunga roote roote)`,
-    songUrl: '/songs/3.mp3'
+    songUrl: 'https://cxtislnfnvbmgsctngha.supabase.co/storage/v1/object/public/music/audio/3.mp3'
   },
   "131207": {
     code: '131207',
@@ -40,7 +42,7 @@ export const entries: Record<string, DiaryEntry> = {
     lekin this is becuase i value youu.. and i cannot afford to loose you.....
     EVEN IF (A REALLY BIG IF) i liked you toh you are like the moon (cause tujhe pimples hai and moon mai bhi daag hai) i would droll over, but ik i can never have it...
     toh ofccc i wont risk everything we have, for ek simple si feeling....`,
-    songUrl: '/songs/4.mp3'
+    songUrl: 'https://cxtislnfnvbmgsctngha.supabase.co/storage/v1/object/public/music/audio/4.mp3'
   },
   "141025": {
     code: '141025',
@@ -50,6 +52,6 @@ export const entries: Record<string, DiaryEntry> = {
     aur kya HAPPY BESTIEEVERSARY 
 
     - Jash`,
-    songUrl: '/songs/5.mp3'
+    songUrl: 'https://cxtislnfnvbmgsctngha.supabase.co/storage/v1/object/public/music/audio/5.mp3'
   }
 };
